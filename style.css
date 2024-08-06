@@ -66,3 +66,15 @@
 #contact {
     padding-bottom: 4rem;
 }
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbarScroll.navbarDark {
+    background-color: black;
+}
