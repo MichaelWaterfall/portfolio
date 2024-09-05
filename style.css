@@ -78,3 +78,9 @@
 .navbarScroll.navbarDark {
     background-color: black;
 }
+
+.imageTestimony {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
